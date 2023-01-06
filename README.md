@@ -7,5 +7,5 @@ A new Flutter project.
 This project is a demonstration of my skills building flutter UI.
 A short video of the running this project:
 
-- [Video: Project in Action](/video-in-action/flutter-ui-so-far.mp3)
+- [Video: Project in Action](/video-in-action/flutter-ui-so-far.mp4)
 
